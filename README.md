@@ -2,4 +2,6 @@
 
 Call me Nemo. 
 
-Mainly a C programmer. Working on learning rust.
+Mainly a C programmer. Working on learning rust and ML.
+
+On telegram at @lekonjak. No twitter/instagram/facebook.
