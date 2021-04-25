@@ -3,6 +3,7 @@
 
 Call me Nemo. 
 
-Mainly a C programmer. Working on learning rust and ML.
+Working on understanding functional paradigm and math stuff. 
+C/R/Python programmer.
 
 On telegram @lekonjak. No twitter/instagram/facebook.
