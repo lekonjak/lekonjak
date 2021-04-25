@@ -3,7 +3,7 @@
 
 Call me Nemo. 
 
-Working on understanding functional paradigm and math stuff. 
+Working on understanding functional paradigm and math stuff.  
 C/R/Python programmer.
 
 On telegram @lekonjak. No twitter/instagram/facebook.
