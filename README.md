@@ -1,9 +1,11 @@
 ![mountaineering somewhere](img.jpg)
 ### Hi there / Salve salve meu paizão 👋
 
-Call me Nemo. 
+Computer science undergrad in a neverending journey to the amazing world of statistics and math.  
 
-Working on understanding functional paradigm and math stuff.  
 C/R/Python programmer.
 
 On telegram @lekonjak. No twitter/instagram/facebook.
+
+-> Current projects being hosted on [gitlab](https://gitlab.com/lekonjak)   
+-> [personal page](https://lkj.li)
