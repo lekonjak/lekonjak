@@ -7,5 +7,5 @@ C/R/Python programmer.
 
 On telegram @lekonjak. No twitter/instagram/facebook.
 
--> Current projects being hosted on [gitlab](https://gitlab.com/lekonjak)   
+-> Most projects are being hosted on [gitlab](https://gitlab.com/lekonjak). Left just some collaborative projects here.   
 -> [personal page](https://lkj.li)
