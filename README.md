@@ -1,7 +1,7 @@
 ![mountaineering somewhere](img.jpg)
 ### Hi there / Salve salve meu paizão 👋
 
-Computer science undergrad in a neverending journey to the amazing world of statistics and math.  
+In a neverending journey to the amazing world of statistics and math.  
 
 C/R/Python programmer.
 
