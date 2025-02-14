@@ -1,5 +1,4 @@
 ![mountaineering somewhere](img.jpg)
-### Hi there / Salve salve meu paizão 👋
 
 In a neverending journey to the amazing world of statistics and math.  
 
